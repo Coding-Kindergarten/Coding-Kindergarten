@@ -5,9 +5,9 @@ from email.header import decode_header, make_header
 imap = imaplib.IMAP4_SSL('imap.gmail.com')
 
 # imap.login('메일 주소', '비밀번호')
-email = 'your_email@gmail.com'
+sender_adress = 'your_email@gmail.com'
 password = '지난 시간 받았던 16자리 앱 비밀번호'
-imap.login(email, password)
+imap.login(sender_adress, password)
 
 # 사서함 선택 ("받은 메일함")
 imap.select("INBOX")
