@@ -1,0 +1,42 @@
+192.168.0.1 - - [16/Jul/2023:15:30:21 +0000] "GET /images/logo.png HTTP/1.1" 200 54321 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+
+192.168.0.1 - - [16/Jul/2023:15:30:45 +0000] "GET /pages/about.html HTTP/1.1" 200 9876 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+
+192.168.0.2 - - [16/Jul/2023:15:31:02 +0000] "POST /api/login HTTP/1.1" 401 345 "http://example.com/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+
+192.168.0.3 - - [16/Jul/2023:15:31:28 +0000] "GET /images/banner.jpg HTTP/1.1" 200 102938 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+
+192.168.0.4 - - [16/Jul/2023:15:32:13 +0000] "GET /pages/contact.html HTTP/1.1" 200 7654 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.5 - - [16/Jul/2023:15:33:01 +0000] "GET /images/background.jpg HTTP/1.1" 200 23987 "http://example.com/about" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"	
+192.168.0.1 - - [16/Jul/2023:15:33:44 +0000] "GET /pages/products.html HTTP/1.1" 200 12467 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.6 - - [16/Jul/2023:15:34:12 +0000] "GET /images/icon.png HTTP/1.1" 200 6578 "http://example.com/products" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.7 - - [16/Jul/2023:15:34:55 +0000] "GET /pages/services.html HTTP/1.1" 200 8765 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.1 - - [16/Jul/2023:15:35:28 +0000] "GET /css/style.css HTTP/1.1" 200 567 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.8 - - [16/Jul/2023:15:35:59 +0000] "GET /images/gallery/photo1.jpg HTTP/1.1" 200 18975 "http://example.com/gallery" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.9 - - [16/Jul/2023:15:36:37 +0000] "GET /pages/faq.html HTTP/1.1" 200 4321 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.10 - - [16/Jul/2023:15:37:19 +0000] "GET /images/logo.png HTTP/1.1" 200 54321 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.1 - - [16/Jul/2023:15:37:57 +0000] "GET /pages/about.html HTTP/1.1" 200 9876 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.11 - - [16/Jul/2023:15:38:43 +0000] "POST /api/login HTTP/1.1" 401 345 "http://example.com/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+
+192.168.0.1 - - [17/Jul/2023:09:12:34 +0000] "GET /images/logo.png HTTP/1.1" 200 54321 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.2 - - [17/Jul/2023:09:15:18 +0000] "GET /pages/about.html HTTP/1.1" 200 9876 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.3 - - [17/Jul/2023:09:17:52 +0000] "POST /api/login HTTP/1.1" 401 345 "http://example.com/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.4 - - [17/Jul/2023:09:20:04 +0000] "GET /images/banner.jpg HTTP/1.1" 200 102938 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.5 - - [17/Jul/2023:09:22:39 +0000] "GET /pages/contact.html HTTP/1.1" 200 7654 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.6 - - [17/Jul/2023:09:25:17 +0000] "GET /images/background.jpg HTTP/1.1" 200 23987 "http://example.com/about" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.7 - - [17/Jul/2023:09:27:48 +0000] "GET /pages/products.html HTTP/1.1" 200 12467 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.8 - - [17/Jul/2023:09:30:02 +0000] "GET /images/icon.png HTTP/1.1" 200 6578 "http://example.com/products" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.9 - - [17/Jul/2023:09:32:21 +0000] "GET /pages/services.html HTTP/1.1" 200 8765 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.10 - - [17/Jul/2023:09:34:43 +0000] "GET /css/style.css HTTP/1.1" 200 567 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+
+192.168.0.11 - - [18/Jul/2023:09:12:34 +0000] "GET /images/logo.png HTTP/1.1" 200 54321 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.12 - - [18/Jul/2023:09:15:18 +0000] "GET /pages/about.html HTTP/1.1" 200 9876 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.13 - - [18/Jul/2023:09:17:52 +0000] "POST /api/login HTTP/1.1" 401 345 "http://example.com/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.14 - - [18/Jul/2023:09:20:04 +0000] "GET /images/banner.jpg HTTP/1.1" 200 102938 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.15 - - [18/Jul/2023:09:22:39 +0000] "GET /pages/contact.html HTTP/1.1" 200 7654 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.16 - - [18/Jul/2023:09:25:17 +0000] "GET /images/background.jpg HTTP/1.1" 200 23987 "http://example.com/about" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.17 - - [18/Jul/2023:09:27:48 +0000] "GET /pages/products.html HTTP/1.1" 200 12467 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.18 - - [18/Jul/2023:09:30:02 +0000] "GET /images/icon.png HTTP/1.1" 200 6578 "http://example.com/products" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.19 - - [18/Jul/2023:09:32:21 +0000] "GET /pages/services.html HTTP/1.1" 200 8765 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+192.168.0.20 - - [18/Jul/2023:09:34:43 +0000] "GET /css/style.css HTTP/1.1" 200 567 "http://example.com/home" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
+
