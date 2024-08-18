@@ -84,7 +84,7 @@ def scrape_data(driver):
     # 크롤링 할 페이지수 파악
     page = math.ceil(int(review_count) / 5)
 
-    for _ in range(page)[:3]:
+    for _ in range(page):
 
         review_list = driver.find_element(By.ID, "viewReviewsList")
         review_box = review_list.find_elements(By.TAG_NAME, "section")
